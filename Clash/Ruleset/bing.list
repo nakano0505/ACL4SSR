@@ -1,0 +1,3 @@
+#用于单独控制微软必应搜索的流量去向
+DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,bing
